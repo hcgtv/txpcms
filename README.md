@@ -12,16 +12,16 @@ one of the fastest PHP rendering engines for the past 10 years.
 
 The plan is to revamp the admin using Bootstrap as the framework.
 
-This will bring a fresh new look and feel to the backend, while adding mobile 
+* This will bring a fresh new look and feel to the backend, while adding mobile 
 responsiveness as an added bonus.
 
-Theming will be first and foremost in these changes, bringing easier methods 
+* Theming will be first and foremost in these changes, bringing easier methods 
 to work with the presentation.
 
-This is more than an admin skin, it's a rethinking of the admin, while keeping 
+* This is more than an admin skin, it's a rethinking of the admin, while keeping 
 the core true to Textpattern.
 
-Version control is being handled locally by Git, eventually up to GitHub when 
+* Version control is being handled locally by Git, eventually up to GitHub when 
 we have something to show.
 
 ## TXP Family
