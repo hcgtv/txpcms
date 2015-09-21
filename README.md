@@ -21,8 +21,7 @@ to work with the presentation.
 * This is more than an admin skin, it's a rethinking of the admin, while keeping 
 the core true to Textpattern.
 
-* Version control is being handled locally by Git, eventually up to GitHub when 
-we have something to show.
+Version control is being handled locally by Git, pushed to GitHub when we have something to show.
 
 ## TXP Family
 
