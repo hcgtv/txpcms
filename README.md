@@ -28,9 +28,9 @@ Git is being used locally to track changes, commits to GitHub when we're ready.
 * TXP CMS : <http://txpcms.com>
 * TXP Forum : <http://txpcms.net>
 * TXP Wiki : <http://txpcms.org>
-* TXP Themes : <http://txptag.com>
+* TXP Themes : <http://txpthemes.com>
 * TXP Tags : <http://txptag.org>
-* TXP Marketing : <http://txptag.net>
+* TXP Marketing : <http://txptag.com>
 * TXP Planet : <http://txplanet.net>
 * We Love TXP : <http://welovetxp.com>
 
