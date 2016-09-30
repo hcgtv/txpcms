@@ -21,7 +21,7 @@ to work with the presentation.
 * This is more than an admin skin, it's a rethinking of the admin, while keeping 
 the core true to Textpattern.
 
-Git is being used locally to track changes, commits to GitHub when we're ready.
+Git is being used locally to track changes, commits to [GitLab](https://gitlab.com/u/hcgtv) when we're ready.
 
 ## TXP Family
 
